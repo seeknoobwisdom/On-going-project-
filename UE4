@@ -1,0 +1,11 @@
+Core Classes to Search For
+
+ACharacter / APawn → Base player/AI character class.
+
+APlayerController → Handles player input, aiming, HUD updates.
+
+AWeapon / AActor-derived weapon classes → Fire logic, recoil, spread.
+
+UUserWidget → Radar, crosshair, ESP overlays in Unreal Motion Graphics.
+
+AGameState / AGameMode → Match rules, timers, player lists (can be used for radar data).
