@@ -1,64 +1,69 @@
-# 🎯 Battle Royale Fire Force Free — Offline Modding Lab
+# 🎯 Special Forces Group 3 — Offline Hacking Lab
 
 > **Disclaimer:** This project is for **educational purposes only**.  
-> All modifications are tested **offline**, against **bots**, with **no connection to online servers**.  
+> All testing is done **offline** against **bots** with **no connection to online servers**.  
 > No modified files are shared or distributed.
 
 ---
 
 ## 📌 Overview
-This is a personal learning project focused on reverse engineering and gameplay modification.  
-The goal is to create and test:
-- 🛠 **Aimbot** — Automatic aim assist for learning targeting logic.
+This is a private learning project focused on reverse engineering and gameplay modification of  
+**Special Forces Group 3** in **offline mode**.  
+The main goals are to create and test:
+- 🛠 **Aimbot** — Automatic aim assist for research into targeting systems.
 - 🗺 **Radar (ESP)** — Displays enemy positions on a custom minimap overlay.
+- 🔫 **Weapon Tweaks** — No recoil, higher fire rate, custom damage values.
 
-All experiments are performed **locally** to avoid breaking laws or game terms of service.
+All experiments are performed locally to avoid breaking laws or the game’s terms of service.
 
 ---
 
 ## ⚖️ Why This Is Legal in My Case
 ✔ **Offline Mode Only**  
-No real players are affected — all tests are against AI bots.  
+All modifications are tested in bot matches without affecting real players.  
 
 ✔ **Private Use**  
-The modified APK stays on my local device/emulator.  
+The modded APK is kept on my own device/emulator — no distribution.  
 
-✔ **Educational Focus**  
-This project helps me understand how cheats work so I can apply the knowledge in **ethical security testing** and **anti-cheat development**.  
+✔ **Educational Purpose**  
+This is a sandbox project for learning reverse engineering, Unreal Engine modding,  
+and basic anti-cheat concepts.  
 
-✔ **No IP Theft**  
-I do not claim ownership of the original game. All rights remain with the developer.
-
----
-
-## 🎯 Goals
-- Learn Android APK structure & reverse engineering
-- Practice Smali code editing & recompilation
-- Understand memory reading & overlay rendering
-- Explore how targeting and player-position systems work
+✔ **Respect for IP**  
+All rights to the original game remain with ForgeGames.  
+No claim is made to the game’s assets or code.
 
 ---
 
-## 🧠 Skills I’m Building
-- **Reverse Engineering** — APKTool, JADX, Smali
-- **Memory Editing** — GameGuardian, Frida
-- **Overlay Rendering** — Radar/ESP visual systems
-- **Security Awareness** — Anti-cheat detection & bypass theory
+## 🎯 Project Goals
+- Learn Android APK structure & Unreal Engine packaging.
+- Practice Smali editing, native code hooks, and HUD/UI modification.
+- Understand aim-assist logic and player-position tracking.
+- Explore safe cheat development in a controlled environment.
 
 ---
 
-## 🚀 Tools I Use
-- **[APKTool](https://ibotpeaches.github.io/Apktool/)** — Decompile/recompile APK
-- **[JADX](https://github.com/skylot/jadx)** — View decompiled Java code
-- **[GameGuardian](https://gameguardian.net/)** — Memory scanning & editing
-- **[Frida](https://frida.re/)** — Runtime hooking & injection
-- **Emulator:** LDPlayer / BlueStacks (network disabled)
+## 🧠 Skills to Develop
+- **Reverse Engineering** — APKTool, JADX, IDA, or Ghidra.
+- **Memory Editing** — GameGuardian, Frida.
+- **HUD/UI Modding** — Unreal Motion Graphics (UMG).
+- **Security Awareness** — How anti-cheats detect and prevent hacks.
+
+---
+
+## 🚀 Tools Used
+- **APKTool** — Decompile/recompile APK resources.
+- **JADX** — View and search Java code.
+- **GameGuardian** — Memory scanning/editing.
+- **Frida** — Runtime hooking and code injection.
+- **LDPlayer / BlueStacks** — Android emulation for safe testing.
 
 ---
 
 ## 📜 Legal Note
-This project is a **sandbox learning environment**.  
-I do not condone or support cheating in live multiplayer games.  
-Knowledge gained here is intended for **security research** and **educational purposes** only.
+This project is a **personal research lab**.  
+I do not condone cheating in live multiplayer games.  
+All modifications are kept private and used strictly offline.
 
 ---
+
